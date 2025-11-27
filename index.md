@@ -1,0 +1,4 @@
+# Welcome
+
+```block
+hero
